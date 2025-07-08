@@ -1,5 +1,5 @@
 {
-    "name": "markshust/magento2-module-disabletwofactorauth",
+    "name": "warleyelias/magento2-module-disabletwofactorauth",
     "description": "The DisableTwoFactorAuth module provides the ability to disable two-factor authentication.",
     "keywords": [
         "dev",
